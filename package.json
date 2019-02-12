@@ -1,0 +1,25 @@
+{
+  "name": "learning-js",
+  "version": "1.0.0",
+  "description": "Learning JS and integration with Selenium WebDriver",
+  "main": "index.js",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkeanu/Learning-JS.git"
+  },
+  "author": "Keanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkeanu/Learning-JS/issues"
+  },
+  "homepage": "https://github.com/kkeanu/Learning-JS#readme"
+}
